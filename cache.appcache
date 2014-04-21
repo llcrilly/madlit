@@ -1,14 +1,16 @@
 CACHE MANIFEST
 # 3c2525bc278bca27b7ffdfcf1c0a77d663b7ed75
 index.html
-# 491a53e21f9ca12fec09dee1f77de9593d1b1c07
+# 19cd56a9acef46ba27e7da074e0f3209624123c0
+favicon.ico
+# 1839f5813e7a7166f6f07d85a99a1038dd92e343
 app.js
-# 281b56df96792bf6f45af38ea1416d0ce1be130b
+# 4ceae9490554fb85cb9db8784096ce763b69ddab
 resources/css/app.css
-# 5ed515715af18933a55984f8760f54c0b8f20b04
-resources/images/bookcase2.jpg
-# 2a8971adadf8fa5a5fc4f416a2884eac117bec43
-resources/images/wood.jpg
+# cb25ad374e58b3da0f2f7a4d10fe091198502d7f
+resources/images/bookcase700x1000.jpg
+# 1e995bc816130a5cf987a66739ac7746d455f22e
+resources/images/wood700x1000.jpg
 
 
 FALLBACK:
