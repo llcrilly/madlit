@@ -3,14 +3,18 @@ CACHE MANIFEST
 index.html
 # 19cd56a9acef46ba27e7da074e0f3209624123c0
 favicon.ico
-# 1839f5813e7a7166f6f07d85a99a1038dd92e343
+# 080b4b12b16d5baa5bfd568714beca9079b98cd3
 app.js
-# 4ceae9490554fb85cb9db8784096ce763b69ddab
+# 66b6820fa9c29df30b3b75bbc2346bd7d272a02c
 resources/css/app.css
 # cb25ad374e58b3da0f2f7a4d10fe091198502d7f
 resources/images/bookcase700x1000.jpg
 # 1e995bc816130a5cf987a66739ac7746d455f22e
 resources/images/wood700x1000.jpg
+# e105dd7ad778b5c2d3a9f111bebe0a9f534c4045
+resources/images/logo_OL.png
+# 2bc6cff0bca30d97428264ab746972016b095035
+resources/images/VoiceRSSinformer.gif
 
 
 FALLBACK:
