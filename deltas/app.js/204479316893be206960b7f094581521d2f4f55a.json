@@ -1,1 +1,1 @@
-["function _4e2d7710588275fe00057c02874006f98c538ff8",50,555969,".",556019,18333,"tap:\"composeFunction\",",574352,51,"Ext.defer(function(",574401,37,",100)}}",574461,1393]
+["function _8ac20dcb3153f177c95ef7b8aa26058c398fd225",50,555969,".",556019,18333,"tap:\"composeFunction\",itemtap:function(b,a,c,d){setTimeout(function(){b.deselect(a)},500)}",574461,1393]
